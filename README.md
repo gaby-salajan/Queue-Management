@@ -7,6 +7,6 @@ The app has a GUI that has 2 tabs, one for the simulation where the current time
 and another tab where the app's parameters can be set.
 
 ## Visuals
-![](visuals/1.png)
-![](visuals/2.png)
-![](visuals/3.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
