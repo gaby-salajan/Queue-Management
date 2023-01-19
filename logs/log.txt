@@ -1,0 +1,119 @@
+SHORTEST_TIME
+Simulation started
+Clients : (1,14,2) (2,23,3) (3,13,3) (4,10,4) 
+
+SimTime: 1
+1 : 
+2 : 
+
+SimTime: 2
+1 : 
+2 : 
+
+SimTime: 3
+1 : 
+2 : 
+
+SimTime: 4
+1 : 
+2 : 
+
+SimTime: 5
+1 : 
+2 : 
+
+SimTime: 6
+1 : 
+2 : 
+
+SimTime: 7
+1 : 
+2 : 
+
+SimTime: 8
+1 : 
+2 : 
+
+SimTime: 9
+1 : 
+2 : 
+
+SimTime: 10
+(4,10,4) enters Queue 1
+1 : (4,10,4)
+2 : 
+
+SimTime: 11
+1 : (4,10,3)
+2 : 
+
+SimTime: 12
+1 : (4,10,2)
+2 : 
+
+SimTime: 13
+(3,13,3) enters Queue 2
+1 : (4,10,1)
+2 : (3,13,3)
+
+SimTime: 14
+(1,14,2) enters Queue 1
+(4,10,0) left Queue 1
+2 : (3,13,2)
+1 : (1,14,2)
+
+SimTime: 15
+2 : (3,13,1)
+1 : (1,14,1)
+
+SimTime: 16
+(3,13,0) left Queue 2
+2 : 
+(1,14,0) left Queue 1
+1 : 
+
+SimTime: 17
+2 : 
+1 : 
+
+SimTime: 18
+2 : 
+1 : 
+
+SimTime: 19
+2 : 
+1 : 
+
+SimTime: 20
+2 : 
+1 : 
+
+SimTime: 21
+2 : 
+1 : 
+
+SimTime: 22
+2 : 
+1 : 
+
+SimTime: 23
+(2,23,3) enters Queue 1
+2 : 
+1 : (2,23,3)
+
+SimTime: 24
+2 : 
+1 : (2,23,2)
+
+SimTime: 25
+2 : 
+1 : (2,23,1)
+
+SimTime: 26
+2 : 
+(2,23,0) left Queue 1
+1 : 
+
+Simulation finished
+Avg waiting time: 3.0
+Peak time: 14

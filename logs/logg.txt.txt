@@ -1,0 +1,136 @@
+SHORTEST_TIME
+Simulation started
+Clients : (1,23,3) (2,27,3) (3,7,4) (4,13,2) 
+
+SimTime: 1
+1 : 
+2 : 
+
+SimTime: 2
+1 : 
+2 : 
+
+SimTime: 3
+1 : 
+2 : 
+
+SimTime: 4
+1 : 
+2 : 
+
+SimTime: 5
+1 : 
+2 : 
+
+SimTime: 6
+1 : 
+2 : 
+
+SimTime: 7
+(3,7,4) enters Queue 1
+1 : (3,7,4)
+2 : 
+
+SimTime: 8
+1 : (3,7,3)
+2 : 
+
+SimTime: 9
+1 : (3,7,2)
+2 : 
+
+SimTime: 10
+1 : (3,7,1)
+2 : 
+
+SimTime: 11
+(3,7,0) left Queue 1
+2 : 
+1 : 
+
+SimTime: 12
+2 : 
+1 : 
+
+SimTime: 13
+(4,13,2) enters Queue 1
+2 : 
+1 : (4,13,2)
+
+SimTime: 14
+2 : 
+1 : (4,13,1)
+
+SimTime: 15
+2 : 
+(4,13,0) left Queue 1
+1 : 
+
+SimTime: 16
+2 : 
+1 : 
+
+SimTime: 17
+2 : 
+1 : 
+
+SimTime: 18
+2 : 
+1 : 
+
+SimTime: 19
+2 : 
+1 : 
+
+SimTime: 20
+2 : 
+1 : 
+
+SimTime: 21
+2 : 
+1 : 
+
+SimTime: 22
+2 : 
+1 : 
+
+SimTime: 23
+(1,23,3) enters Queue 1
+2 : 
+1 : (1,23,3)
+
+SimTime: 24
+2 : 
+1 : (1,23,2)
+
+SimTime: 25
+2 : 
+1 : (1,23,1)
+
+SimTime: 26
+2 : 
+(1,23,0) left Queue 1
+1 : 
+
+SimTime: 27
+(2,27,3) enters Queue 1
+2 : 
+1 : (2,27,3)
+
+SimTime: 28
+2 : 
+1 : (2,27,2)
+
+SimTime: 29
+2 : 
+1 : (2,27,1)
+
+SimTime: 30
+2 : 
+(2,27,0) left Queue 1
+1 : 
+
+Simulation finished
+Avg waiting time: 3.0
+Peak time: 7
+File created: pp.txt
